@@ -1,0 +1,11 @@
+[package]
+
+name = "elf"
+version = "0.0.1"
+authors = ["Jim Blandy <jimb@red-bean.com>"]
+
+[lib]
+name = "elf"
+
+[[bin]]
+name = "rustelf"
